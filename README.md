@@ -7,7 +7,7 @@
 |変換前|(初期設定)|変換後|
 |:---:|:---:|:---:|
 |170px*256px|→|190px*190px|
-|![Before](ReadMeImage\BeforeLenna.jpg)|→|![After](ReadMeImage\AfterLenna.jpg)|
+|![Before](https://github.com/livenara/squareImage/blob/main/ReadMeImage/BeforeLenna.jpg?raw=true)|→|![After](https://github.com/livenara/squareImage/blob/main/ReadMeImage/AfterLenna.jpg?raw=true)|
 
 
 ## 使い方
